@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "10 Things To Know About MLSA Program 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Discover the essentials of the Microsoft Learn Student Ambassadors program! This beginner-friendly article will help you understand the program's benefits, how to apply, and how to leverage the Microsoft Learn platform to boost your career.",
+    url: "https://dev.to/microsoft/10-things-to-know-about-microsoft-learn-student-ambassadors",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Understanding Cloud Computing: Key Concepts and Benefits ☁️",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Explore the fundamentals of cloud computing, including its core concepts, benefits, and different service models. This article provides a beginner-friendly introduction to how cloud computing can transform businesses and personal projects.",
+    url: "https://dev.to/microsoft/understanding-cloud-computing-key-concepts-and-benefits",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://dev.to/microsoft/getting-started-with-azure-devops",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Getting Started with Azure DevOps 🚀",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Learn how to streamline your software development process using Azure DevOps. This guide covers the basics of setting up Azure DevOps, integrating it with your projects, and leveraging its powerful tools for continuous integration and delivery.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];

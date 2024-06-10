@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "As a dynamic third-year undergraduate majoring in Information Systems at Sabaragamuwa University of Sri Lanka, I bring a blend of academic prowess and practical experience to the table. My journey includes valuable stints as a Digital Marketing Intern at Commercial Technologies Plus and a Development Intern at International Youth Alliance for Peace, where I acquired hands-on insights into digital marketing strategies and project management principles. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
+  "Business Coaching",
+  "Graphic Designing",
+  "Front End Developmentn",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  "Personal Branding",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Moreover, I am deeply involved in community initiatives, serving as the Director of Akaram Makkal Kalaikoodam, an organization dedicated to promoting Tamil culture and traditions in Trincomalee, and as a Board Member of Thalam, a community-based organization focused on youth empowerment.";
 
 const About = () => {
   return (
